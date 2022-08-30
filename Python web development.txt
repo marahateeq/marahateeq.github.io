@@ -1,0 +1,64 @@
+python web developer
+
+1- HTML , CSS
+
+2- JavaScript
+
+3- Document Object Model (DOM)
+
+4- Backend development with Python
+
+5- Choose your framework and database
+
+https://www.freelancer.com/articles/web-development/how-to-build-a-website-with-python
+https://www.w3schools.com/tags/tag_picture.asp
+
+1. Absolute URL - Links to an external image that is hosted on another website. Example: src="https://www.w3schools.com/images/img_girl.jpg".
+
+Notes: External images might be under copyright. If you do not get permission to use it, you may be in violation of copyright laws. In addition, you cannot control external images; it can suddenly be removed or changed.
+
+2. Relative URL - Links to an image that is hosted within the website. Here, the URL does not include the domain name. If the URL begins without a slash, it will be relative to the current page. Example: src="img_girl.jpg". If the URL begins with a slash, it will be relative to the domain. Example: src="/images/img_girl.jpg".
+
+Tip: It is almost always best to use relative URLs. They will not break if you change domain.
+
+
+
+https://www.w3schools.com/tags/ref_language_codes.asp
+
+<hr>
+<br>
+The HTML <pre> element defines preformatted text.
+
+<b> - Bold text
+<strong> - Important text
+<i> - Italic text
+<em> - Emphasized text
+<mark> - Marked text
+<small> - Smaller text
+<del> - Deleted text
+<ins> - Inserted text
+<sub> - Subscript text
+<sup> - Superscript text
+
+<abbr> - Defines an abbreviation or acronym
+<address> - Defines contact information for the author/owner of a document
+<bdo> -	Defines the text direction
+<blockquote> -	Defines a section that is quoted from another source
+<cite> - Defines the title of a work
+<q> - Defines a short inline quotation
+
+<!-- Write your comments here -->
+
+https://www.w3schools.com/colors/colors_names.asp
+
+marahateeq.github.io
+
+https://my-learning.w3schools.com/tutorial/html
+
+https://my-learning.w3schools.com/
+https://marahateeq.w3spaces.com/#contact
+https://www.w3schools.com/html/html_css.asp
+
+
+
+
